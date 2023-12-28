@@ -1,0 +1,1 @@
+# consecutive-three-odd-numbers-leetcode-solution
